@@ -1,0 +1,15 @@
+/* p{
+    font-size: 5rem;
+} */
+@media (max-width:5000px) {
+    html{
+        font-size: 5px;
+    }
+    body{
+        background: lightcoral;
+    }
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background: lightcyan;
+}
